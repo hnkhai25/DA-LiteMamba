@@ -1,0 +1,11 @@
+torch==2.4.0
+torchvision
+mamba_ssm
+einops
+timm
+pytorch_lightning>=2.0
+numpy
+scikit-learn
+pillow
+albumentations
+fvcore

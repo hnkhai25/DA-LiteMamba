@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# data, checkpoints and logs
+data/
+checkpoints/
+lightning_logs/
+*.ckpt
+*.pth
+*.npy
+*.npz
+
+# paper and original notebook
+*.pdf
+*.ipynb
+notebooks/
